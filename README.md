@@ -1,6 +1,6 @@
 # Bilinear-interpolation-for-BMI-approximation-using-Motorolla-microcontroller-HCS12-9S12
 **Description:**
-This project was implemented in the advanced embedded systems course in Spring/2012 at the American University of Sharjah (AUS).
+This project was implemented in the advanced computational methods course in Spring/2012 at the American University of Sharjah (AUS).
 The idea of the project is to use approximation functions to calculate BMI without knowing the exact formula. That said, we used the 
 **Bilinear interpolation** to approximate the BMI value, given the values of the weight and height points.
 
